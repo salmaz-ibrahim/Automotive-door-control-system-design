@@ -1,0 +1,1 @@
+/*main.c pesudo code*/
